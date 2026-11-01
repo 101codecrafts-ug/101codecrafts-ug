@@ -1,16 +1,23 @@
-## Hi there 👋
+# 101 Codecrafts
 
-<!--
-**101codecrafts-ug/101codecrafts-ug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Start at 101. Craft your way up.**
 
-Here are some ideas to get you started:
+Learn. Build. Collaborate. Grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+101 Codecrafts is a Kampala-based tech learning and collaboration community for beginners through pros, covering:
+
+- Coding and software engineering
+- AI and data
+- Cybersecurity
+- Cloud and DevOps
+- Projects, hackathons, mentorship and careers
+
+## Founders
+
+- Businge Daglous (Founder)
+- Ngabirano Octavious (Co-founder)
+- Mwesigwa Allan (Co-founder)
+
+## Join us
+
+WhatsApp community: https://chat.whatsapp.com/LwXmmJK0ujN6hp4Zh6lhzh
