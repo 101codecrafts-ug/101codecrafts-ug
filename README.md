@@ -15,7 +15,7 @@ Learn. Build. Collaborate. Grow.
 ## Founders
 
 - Businge Daglous (Founder)
-- Ngabirano Octavious (Co-founder)
+- Ngabirano Octavious (Co-founder) · [@octavious2](https://github.com/octavious2)
 - Mwesigwa Allan (Co-founder)
 
 ## Join us
